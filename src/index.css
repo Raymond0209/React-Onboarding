@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwindss/line-clamp;
+
+html {
+    background-color: #F6EFE8 ;
+}
